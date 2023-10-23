@@ -1,2 +1,3 @@
 com\wcram\servlett_application\JakartaRestConfiguration.class
+com\wcram\servlett_application\FormDataHandle.class
 com\wcram\servlett_application\resources\JakartaEE10Resource.class
