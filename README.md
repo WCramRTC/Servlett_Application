@@ -201,8 +201,12 @@ public class FormDataHandle extends HttpServlet {
 ```
 ---
 ### *** Test your code : Step 3 ***
-Run your project again, and add `Details.html` like before. The webpage should now display the form code from the html we replaced.
+Run your project again, and go to the `Details.html` page again. This time enter in data into some of the text boxes and then click the submit button.
+
+You should be redirected to a new webpage called `FormData.html` and your data should appear. This was done with our servlet.
+
+We'll break down what's happening next.
 
 ---
 
-## Step 4 - Testing out your code.
+## Walking through our code
