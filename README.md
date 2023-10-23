@@ -31,6 +31,8 @@ You are welcome to walk through the whole tutorial if you are interested in serv
 ***If you use the code from Geeks For Geeks, some of it is outdated.  
 You will have to replace `javax` with `jakarta` in the importants to remove the errors***
 
+## [Video Walkthough : Setting up the Geeks for Geeks Servlet](https://www.youtube.com/watch?v=UtP--9k2Ir8)
+
 ## Step 1 - Create a Details.html page
 
 1. In the `Web Pages` folder you are going to add a new webpage.
